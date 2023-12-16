@@ -1,0 +1,86 @@
+AULA 1: https://www.youtube.com/watch?v=xEKo29OWILE
+Git != Github
+Git: Software de controle de Versão (VCS)
+VERSIONAMENTO: Várias versões da evolução de um projeto
+Backup de versões com um controle
+Github: Plataforma de rede Social para Programadores (desde quando programador tem vida social?!) 
+Primeiro VCS surgiu em 1972 (Centralizado)
+
+Centralizado
+Pasta -> repositório central (commit)
+Exemplos de VCS centralizados:
+
+  *CA Software Change Manager (CCC)
+  *Source Code Control System(SCCS)
+  *Panvalent
+  *Concurrent Version System (CVS)
+  *Apache Subversion (SVN)
+  *ClearCase
+  *Visual SourceSafe
+  *Perfarce
+
+Modelo mais moderno:
+Distribuído
+Pasta -> repositório local (commit)
+repositório local -> repositório central (push)
+
+Exemplos de VCS distribuídos:
+  *Mercurial
+  *Bazzar
+  *Code Co-op
+  *GNU arch
+  *Monotone
+  *Fossil
+  *Bitkeeper
+  *Git
+
+Principais vantagens:
+Controle de histórico
+Trabalho em equipe
+Ramificação do projeto
+
+Aula 2: https://www.youtube.com/watch?v=hcZ0qtwvN1w
+Git: Salva a diferença entre versões; repositório local
+Github: Repositório remoto; Plataforma
+
+Github:
+Repositórios ilimitados
+Hospedagem de código-fonte
+Características de rede social
+GitHub Pages Integrados
+Colaboração
+Forks
+
+Outros repositórios para Git:
+GitLab
+Bitbucket
+Fabricator
+Gogs
+Kallithea
+
+Aula 3: https://www.youtube.com/watch?v=CJtrNuTTs4Q
+História VCS
+1985 Concurrent Version System (CVS)
+*Centralizado
+*Open Souce
+*Mais popular
+*Alguns problemas
+
+2000 Apache Subversion SVN
+*Centralizado
+*Open Source
+*Ativo
+*CVS-LIKE
+
+2000 BitKeeper
+*Distríbuido
+*Proprietário
+*Versão comunidade
+*CVS-FREE
+
+2005 Git (Criado da base do rage pelo LINUS TORVALDS)
+Nome não significa nada, LINUS gosta de trollar
+
+2008 GITHUB
+
+AULA 4:
